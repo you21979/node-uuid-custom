@@ -1,0 +1,25 @@
+{
+  "name": "@you21979/uuid-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/node-uuid-custom.git"
+  },
+  "dependencies": {
+    "uuid": "2.0.*"
+  },
+  "keywords": [
+    "uuid"
+  ],
+  "author": "Yuki Akiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/node-uuid-custom/issues"
+  },
+  "homepage": "https://github.com/you21979/node-uuid-custom#readme"
+}
